@@ -20,8 +20,8 @@ Je ne fais pas que construire — je casse, je reconstruis et je transforme. Par
 
 ## 🎯 GitHub en Chiffres 
 
-![Francois's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyfran&show_icons=true&theme=radical)  
+![Francois's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightwolf001&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyfran&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightwolf001&layout=compact&theme=radical)  
 
 --- 
